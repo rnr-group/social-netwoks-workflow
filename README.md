@@ -1,4 +1,4 @@
-# Social netwoks workflow
+# Social networks workflow
 Weekly workflow for social communication management.
 
 ## Target
