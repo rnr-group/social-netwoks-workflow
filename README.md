@@ -3,7 +3,7 @@ Weekly workflow for social communication management.
 
 ## Target
 - Brazilians willing to live in the US.
-- Abble to invest 500k
+- Able to invest 500k
 - Refine target each week
 - Reach leads 
 
